@@ -1,6 +1,11 @@
 import torch
 import torch.nn as nn
 
+"""
+Cross entropy loss: This is a measure used when a model needs to choose between categories
+and it shows how well the model's predictions align with the actual categories.
+"""
+
 loss_function = nn.CrossEntropyLoss()
 
 # Our dataset contains a single image of a dog, where
