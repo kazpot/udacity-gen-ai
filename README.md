@@ -1,5 +1,17 @@
 # udacity-gen-ai
 
+## Create virtual environment
+
+```
+$ python -m venv .venv
+```
+
+## Create or Update requirements.txt
+
+```
+$ pip freeze > requirements.txt
+```
+
 ## Install
 
 ```
