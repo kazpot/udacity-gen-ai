@@ -140,7 +140,7 @@ ui-tests/.pnp.*
 .venv/
 
 # jupyter notebook
-notebook/.ipynb_checkpoints
-notebook/data/
+**/.ipynb_checkpoints/
+**/data/
 
 results
