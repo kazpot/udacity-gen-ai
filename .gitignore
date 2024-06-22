@@ -144,3 +144,5 @@ ui-tests/.pnp.*
 **/data/
 
 results
+
+.env
