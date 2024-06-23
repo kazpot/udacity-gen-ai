@@ -1,0 +1,431 @@
+,text,embeddings,distances
+0," – 2023 (MMXXIII) was a common year starting on Sunday of the Gregorian calendar, the 2023rd year of the Common Era (CE) and Anno Domini (AD) designations, the 23rd  year of the 3rd millennium and the 21st century, and the  4th   year of the 2020s decade.  ","[ 0.00368264 -0.01391775 -0.00747782 ... -0.00647119 -0.00789048
+ -0.01820687]",0.22311103456588466
+1,"The year 2023 saw the decline in severity of the COVID-19 pandemic, with the WHO (World Health Organization) ending its global health emergency status in May. Catastrophic natural disasters included the fifth-deadliest earthquake of the 21st century striking Turkey and Syria, leaving up to 62,000 people dead, Cyclone Freddy – the longest-lasting recorded tropical cyclone in history – leading to over 1,400 deaths in Malawi and Mozambique, Storm Daniel, which became the deadliest cyclone worldwide since Cyclone Nargis after killing at least 11,000 people in Libya, a major 6.8 magnitude earthquake striking western Morocco, killing 2,960 people, and a 6.3 magnitude quadruple earthquake striking western Afghanistan, killing over 1,400 people.","[-0.02144141 -0.00488042  0.00321249 ... -0.00731387 -0.00730035
+ -0.0245373 ]",0.27018253500033695
+2," – The Russian invasion of Ukraine and Myanmar civil war continued in 2023, and a series of coups, several armed conflicts, and political crises broke out in numerous African nations, most notably a war in Sudan. A major escalation of the Israeli–Palestinian conflict occurred in October when Hamas, which governs the Gaza Strip, led an attack on Israel, leading the latter to declare war on Hamas. The Nagorno-Karabakh conflict ended after over 100,000 Armenians fled the region after an Azeri military invasion.","[-2.13282742e-02 -1.66928750e-02  8.03378597e-03 ...  7.05696220e-05
+  2.20079515e-02 -1.30243169e-03]",0.25148981496775336
+3," – A banking crisis resulted in the collapse of numerous American regional banks as well as the buyout of Credit Suisse by UBS in Switzerland. The two largest American banks to collapse were Silicon Valley Bank and First Republic Bank, two of the three largest banking collapses in US history. The most notable of numerous acquisitions in various industries included October's energy acquisitions with ExxonMobil and Chevron buying Pioneer Natural Resources and Hess respectively, the luxury fashion holding company Tapestry (Coach New York and Kate Spade New York) announcing its purchase of Capri Holdings (Michael Kors and Versace), and the closure of Microsoft's acquisition of Activision Blizzard.","[-0.03287415 -0.01234798  0.03709775 ... -0.00025578 -0.011245
+  0.00335097]",0.2977471942971721
+4," – In the realm of technology, 2023 saw the continued rise of generative AI models, with increasing applications across various industries. These models, leveraging advancements in machine learning and natural language processing, had become capable of creating realistic and coherent text, images, and music. An AI arms race between private companies has continued since the late 2010s, with Microsoft-backed OpenAI and Google owner Alphabet today most dominant among firms.","[-2.31895521e-02 -1.41486311e-02  2.44998737e-05 ... -1.20522846e-02
+ -4.45217546e-03  1.32131279e-02]",0.12351307787839083
+5,"January 1 – Croatia adopts the euro and joins the Schengen Area, becoming the 20th member state of the Eurozone and the 27th member of the Schengen Area. This is the first enlargement of the Eurozone since Lithuania's entry in 2015, and the first enlargement of the Schengen Area since Liechtenstein's entry in 2011.","[ 0.01315719 -0.02075084  0.01291306 ...  0.00797911 -0.00118289
+ -0.01238626]",0.3057078720661147
+6,"January 5 – The funeral of Pope Benedict XVI is held at St. Peter's Square in the Vatican City. The funeral was attended by an estimated 50,000 people.","[ 0.00704745  0.00247942 -0.0027389  ...  0.00722684 -0.0052023
+ -0.02134738]",0.30445650389602186
+7,"January 8 – The 2023 Beninese parliamentary election is held, with the Progressive Union for Renewal party winning a plurality of seats.","[-0.02324043 -0.00259386 -0.00794358 ... -0.0105615  -0.01263402
+  0.00410333]",0.25091427042187775
+8,"January 8 – Following the 2022 Brazilian general election and the inauguration of Lula da Silva as president of Brazil, supporters of former Brazilian president Jair Bolsonaro storm the Brazilian National Congress, the Supreme Federal Court and the Presidential Palace of Planalto.","[-0.03401545 -0.00989051 -0.02209427 ...  0.01021909  0.00633847
+ -0.00450166]",0.2753959981410107
+9,January 9 – Juliaca massacre: At least 18 people are killed and over 100 others are injured when the Peruvian National Police fire upon demonstrations in Juliaca.,"[-0.02925893  0.02143236  0.00412709 ... -0.00529006 -0.00992575
+ -0.0084939 ]",0.2954366901690051
+10,"January 10–17 – A cold snap in Afghanistan kills 166 people and nearly 80,000 livestock.","[-0.00973941 -0.00681824 -0.02045472 ... -0.0026772   0.01742294
+ -0.01448225]",0.2924681856822011
+11,"January 15 – Yeti Airlines Flight 691 crashes during final approach into Pokhara, Nepal, killing all 72 people on board.","[ 0.0041217  -0.00392785 -0.00143322 ...  0.01553345  0.00695955
+ -0.02228326]",0.29446879203162113
+12,January 16 – Tigray War: Amharan Special Forces withdraw from the Tigray Region in line with an African Union-backed peace agreement between the Ethiopian government and the Tigray People's Liberation Front.,"[-0.01435107 -0.02155255  0.00035237 ...  0.00172738  0.01058164
+  0.01227496]",0.27928217018874457
+13,January 17 – Nguyễn Xuân Phúc resigns as President of Vietnam amid several recent scandals in the government.,"[-0.01357029 -0.01458679  0.02153712 ... -0.01174694  0.01112434
+ -0.01100998]",0.2856477976000682
+14,"January 18 – A helicopter crash in Brovary near Kyiv, Ukraine kills 14 people including Ukrainian Minister of Internal Affairs Denys Monastyrsky.","[-0.01311687  0.00283521 -0.00915145 ...  0.01387249  0.00567687
+  0.00189068]",0.2875580107228418
+15,"January 20 – The Parliament of Trinidad and Tobago elects former senate president, minister and lawyer Christine Kangaloo as president in a 48–22 vote.","[-0.00301428 -0.00578572 -0.00813951 ...  0.00513495 -0.00144157
+ -0.00843738]",0.2867764310741763
+16,January 21 – Burkina Faso requests French forces to withdraw from its territory after suspending a military accord that allowed the presence of French troops in the country.,"[-0.01647113 -0.0021382   0.00588208 ...  0.01230155  0.01238572
+  0.01478776]",0.30146717315885874
+17,January 21 – Tigray War: Eritrean forces withdraw from Shire and other major towns in the Tigray Region of Ethiopia.,"[-0.00536014 -0.01284233  0.00654085 ...  0.01706703  0.01686
+  0.00022624]",0.2939934957338315
+18,"January 25 – Chris Hipkins succeeds Jacinda Ardern as Prime Minister of New Zealand, six days after she announced her resignation.","[-0.01640639  0.0127346  -0.01698356 ...  0.00388976 -0.02244827
+ -0.01729057]",0.2703434715406894
+19,"January 27 – Widespread unrest erupts in Israel following an Israeli military raid in Jenin the previous day which killed nine Palestinians. Incendiary air balloons are launched into Israeli-populated areas following it. Israel responds with targeted airstrikes. Later the same day, seven Jewish civilians are killed in a synagogue in Neve Yaakov in a terrorist attack.","[-0.03467332 -0.01929192  0.00686949 ...  0.00194712  0.00402132
+ -0.00797095]",0.2959717270396387
+20,"January 27–28 – The second round of the 2023 Czech presidential election is held, with Petr Pavel declared winner.","[-0.01500083 -0.00147489  0.00784482 ...  0.01574066 -0.0121499
+ -0.00706034]",0.25122461333551516
+21,"January 30 – A Jamaat-ul-Ahrar suicide bombing inside a mosque in Peshawar, Khyber Pakhtunkhwa, Pakistan, kills 84 people and injures over 220 others.","[-0.01531526  0.00089185  0.00134295 ...  0.00319918  0.01855429
+ -0.0062007 ]",0.28419349446883446
+22,January 30 – Prime Minister of Fiji Sitiveni Rabuka confirms that Kiribati will rejoin the Pacific Islands Forum after leaving the organization the previous year.,"[-0.00228493 -0.0058002  -0.00999615 ...  0.00756742 -0.00346734
+ -0.01655373]",0.2891585077000898
+23,February 1 – Lebanese liquidity crisis: The central bank of Lebanon devalues the Lebanese pound by 90% amid an ongoing financial crisis.,"[-0.0035125   0.00404372  0.00777837 ... -0.00411777  0.0142303
+ -0.01274288]",0.30867023137352756
+24,February 2 – Israel and Sudan announce the finalization of an agreement to normalize relations between the two countries.,"[-0.00803985 -0.01365039  0.011009   ... -0.00279563  0.00645887
+ -0.00479756]",0.2832727283783032
+25,"February 2 – The European Central Bank and Bank of England raise their interest rates by 0.5 percentage points to combat inflation, one day after the US Federal Reserve raises its federal funds rate by 0.25 percentage points.","[-0.02368204 -0.01493277  0.00860815 ...  0.01629263  0.00201252
+ -0.01022459]",0.2932135020135751
+26,"February 3 – The US announces it is tracking alleged Chinese spy balloons over the Americas, later announcing that the balloons did not collect any information. One balloon drifts from Yukon to South Carolina before being shot down the next day, and a second hovers over Colombia and Brazil. This event is followed by subsequent detections and shootdowns of high-altitude objects elsewhere.","[-0.02912885 -0.00287657  0.01131308 ...  0.03219364  0.00089112
+ -0.00217534]",0.27417455821502856
+27,"February 3 – A Norfolk Southern train carrying hazardous materials derails in East Palestine, Ohio. Multiple train cars burn for more than two days, followed by emergency crews conducting a controlled burn of several additional cars, releasing hydrogen chloride and phosgene into the atmosphere.","[-0.00797171  0.00473363 -0.00365999 ... -0.00226219 -0.01117548
+  0.00872634]",0.30146197279569986
+28,"February 5 – The 2023 Cypriot presidential election is held, with Nikos Christodoulides elected president.","[-0.01361301 -0.01432747 -0.00240492 ...  0.01194168  0.01419989
+ -0.01389369]",0.24122408929158112
+29,"February 5 – Cyclone Freddy forms in the Indian Ocean. It would become the longest lasting tropical cyclone in history and cause over 1,400 deaths and countless injuries and property damage across southeastern Africa.","[-0.01819658 -0.00773908 -0.00907228 ... -0.00395733  0.01141351
+ -0.02129221]",0.29479801681895335
+30,"February 6 – A 7.8 Mww earthquake strikes southern and central Turkey and northern and western Syria followed by a 7.7 Mww  aftershock on the same day, causing widespread damage and at more than 59,000 fatalities and 121,000 injured.","[-0.0025118  -0.01761739 -0.01586889 ...  0.00305489  0.01029226
+ -0.023247  ]",0.31924608655521425
+31,"February 13 – The 2023 Bangladeshi presidential election scheduled for 19 February is held, with Shahabuddin Chuppu of the Awami League, the only nominated candidate, elected unopposed.","[-0.02576108 -0.0050771  -0.01098311 ... -0.00672197  0.01894845
+  0.00718176]",0.25991623746314185
+32,"February 14 – The European Parliament approves a ban on the sale of new petrol and diesel vehicles in the European Union from 2035, citing the need to combat climate change in Europe and promote electric vehicles.","[-0.0059108  -0.01233257 -0.00770865 ...  0.01661585 -0.00298694
+ -0.01937886]",0.23701164034296263
+33,February 16 – Lawmakers in the Russian State Duma vote to withdraw Russia from 21 conventions of the Council of Europe.,"[ 0.00623242  0.01573472  0.00808971 ...  0.01366815  0.0238833
+ -0.01827216]",0.29768373407659887
+34,February 17 – The South African Navy hosts a ten-day joint military exercise in the Indian Ocean with Russia and China.,"[-0.01013235 -0.01898262  0.01444301 ... -0.0130759   0.02429409
+ -0.0053082 ]",0.2572601593431294
+35,February 19 – Libyan Crisis: The African Union announces the organization of a peace conference to address the instability in Libya.,"[-0.01295392 -0.00682457  0.02188964 ... -0.01237352  0.00278723
+ -0.02011653]",0.2676253096530795
+36,"February 21 – Vladimir Putin announces that Russia is suspending its participation in New START, a nuclear arms reduction treaty with the US.","[-0.03010354 -0.01665608  0.01138665 ...  0.00492378  0.02415588
+ -0.01669521]",0.26488639756505794
+37,"February 23 – Oman opens its airspace to Israeli airlines for the first time, in an upgrade of bilateral relations.","[-0.01066614 -0.00625257 -0.01125978 ... -0.00084368  0.02898506
+ -0.00598801]",0.2628951529832445
+38,"February 25 – 2023 Nigerian general election: Bola Tinubu is elected as Nigeria's president, defeating former vice president Atiku Abubakar and Peter Obi.","[-0.03416337 -0.03662354 -0.01157167 ... -0.01222476  0.01140047
+  0.00223825]",0.240641759375123
+39,February 27 – The United Kingdom and the European Union reach an agreement surrounding modifications to the Northern Ireland Protocol.,"[-0.00096695 -0.01110224  0.00711779 ...  0.01177052  0.00383945
+ -0.0141095 ]",0.2712669110797291
+40,"February 28 – A train crash in Thessaly, Greece, kills 57 people and injures dozens. The crash leads to nationwide protests and strikes against the condition of Greek railways and their mismanagement.","[-0.00637107 -0.00276014  0.00223168 ...  0.00233966 -0.0107199
+ -0.00432264]",0.28571493951335636
+41,March 2 – The National Assembly of Vietnam declares Võ Văn Thưởng as the country's new president after receiving 98.38% votes from the Vietnamese parliament.,"[-0.03115089 -0.01582063  0.01231712 ... -0.0051359  -0.00301476
+  0.00971691]",0.27429485515461627
+42,"March 4 – UN member states agree on a legal framework for the High Seas Treaty, which aims to protect 30% of the world's oceans by 2030.","[ 0.01253902 -0.01346147  0.01335968 ...  0.0001169   0.01524276
+ -0.0026942 ]",0.2449866564694242
+43,"March 4 – Kivu conflict: Burundi deploys 100 troops to the Democratic Republic of the Congo to help fight insurgencies by militias, including M23.","[-0.03069244 -0.00541478  0.01044558 ... -0.00656347 -0.01235898
+  0.01515098]",0.2630422146709094
+44,"March 5 – The 2023 Estonian parliamentary election is held, with two centre-right liberal parties gaining an absolute majority for the first time.","[-0.011701   -0.00494677 -0.00263828 ...  0.01426952  0.00359909
+ -0.01442173]",0.2430079044627953
+45,"March 8–21 – The 2023 World Baseball Classic is held in, and won by, Japan.","[-0.00954283 -0.0268081   0.0085413  ...  0.00836493 -0.00551468
+ -0.00266601]",0.24225551452601457
+46,"March 8 – Allied Democratic Forces jihadist insurgents use machetes to kill about 35 people in the village of Mukondi, North Kivu, Democratic Republic of the Congo.","[-0.03976535  0.00189375  0.00036458 ...  0.00043502  0.00287697
+  0.0107808 ]",0.26612128531551515
+47,March 10 – The 2023 Chinese presidential election is held with the National People's Congress unanimously re-electing Xi Jinping as the President of the People's Republic of China to an unprecedented third term.,"[-0.00892085 -0.02325838  0.0028383  ...  0.01180247  0.01128262
+ -0.00316562]",0.23860103091809126
+48,"March 10 – Iran and Saudi Arabia agree to resume diplomatic relations which were severed in 2016, at talks mediated by China.","[-0.00285649 -0.02442839  0.00482544 ... -0.01257306  0.00125923
+ -0.01158618]",0.27204051316623323
+49,"March 10 – Silicon Valley Bank, the 16th largest bank in the United States, fails, creating then the largest bank failure since the 2008 financial crisis, affecting companies around the world.","[-0.03089227 -0.02470342  0.02262313 ... -0.00252722 -0.00239721
+  0.0009345 ]",0.28053624938699007
+50,"March 10 – Kivu conflict: Angola announces the deployment of troops to the Democratic Republic of the Congo, following the failure of a ceasefire between government forces and M23 rebels in North Kivu.","[-0.02716203 -0.01652336  0.01356817 ...  0.00935381  0.00460303
+  0.01405642]",0.25976048570842114
+51,"March 14 – OpenAI launches GPT-4, a large language model for ChatGPT, which can respond to images and can process up to 25,000 words.","[-0.01901513 -0.00558958 -0.00815312 ... -0.00621725 -0.01063737
+ -0.0286218 ]",0.18003140204111945
+52,"March 17 – The International Criminal Court issues an arrest warrant for Russian president Vladimir Putin and Maria Lvova-Belova, Russian Commissioner for Children's Rights, marking the first arrest warrant against a leader of a permanent member of the United Nations Security Council.","[ 0.00289329 -0.00390227 -0.00061982 ...  0.01876482  0.01274026
+  0.00505633]",0.2607481729050739
+53,"March 19 – In a deal brokered by the Swiss government, investment bank UBS agrees to buy Credit Suisse for CHF 3 billion (US$3.2 billion) in an all-stock deal.","[-1.26614664e-02 -1.28275603e-02  3.91215011e-02 ...  5.51982739e-05
+ -5.57692209e-03 -6.02729246e-03]",0.2890875805640065
+54,March 20 – The Intergovernmental Panel on Climate Change (IPCC) releases the synthesis report of its Sixth Assessment Report on climate change.,"[-0.01284602 -0.00949544  0.00819102 ...  0.00884962 -0.02181714
+ -0.02887637]",0.2362268832822455
+55,"March 23 – World Athletics, the global governing body for athletics, bans trans women who have gone through male puberty from competing in female events.","[-0.01561635 -0.00611511  0.00610864 ... -0.00971166 -0.00712836
+  0.00180475]",0.2590716663808975
+56,"March 24–27 – A tornado outbreak kills at least 26 people in Mississippi and Alabama. This includes a violent tornado which devastated the city of Rolling Fork and the town of Silver City in Mississippi, killing 16 people and injuring 165 others.","[-0.03178928 -0.01548641 -0.00405596 ...  0.00709135  0.00319506
+ -0.01365596]",0.29607232898517055
+57,"March 26 – Honduras switches its formal diplomatic recognition of ""China"" from the Republic of China to the People's Republic of China.","[-0.00941566  0.0083457   0.01522588 ...  0.01141293  0.00790475
+  0.00164547]",0.29678904637528103
+58,March 26 – 2023 Israeli judicial reform protests: Large-scale spontaneous protests erupt across Israel in the wake of Prime Minister Benjamin Netanyahu firing his defense minister who criticized the government's judicial overhaul plan.,"[-0.03010057 -0.02248445 -0.00974109 ...  0.00072823 -0.00401601
+ -0.00058161]",0.23686453628135684
+59,"March 29 – Brazil and China sign an agreement to trade in their own currencies, ceasing the usage of the United States dollar as an intermediary.","[-0.01326406 -0.01366327  0.01279402 ...  0.00176586 -0.01559493
+ -0.02212394]",0.28276094920066397
+60,March 29 – Burkina Faso formally resumes diplomatic relations with North Korea after suspending them in 2017.,"[-0.01200984 -0.0111091  -0.00281481 ...  0.00460486 -0.00061844
+ -0.00041039]",0.2988623966988794
+61,March 30 – The International Court of Justice rules that the United States violated its Treaty of Amity with Iran when it allowed its domestic courts to freeze assets held by Iranian companies.,"[-0.01500182 -0.00806068 -0.00075075 ... -0.00845581  0.01141271
+ -0.03155782]",0.2719887897451775
+62,"March 31 – April 1 – A historic and widespread tornado outbreak occurs in the United States, killing 33 people, injuring more than 218 others, and caused over $5.4 billion in damage. This tornado outbreak produced 147 tornadoes, making it the third largest tornado outbreak in history.","[-0.0317485  -0.02339159 -0.00232495 ...  0.01684298  0.00397825
+ -0.0166234 ]",0.2905473279764763
+63,"April 2 – The 2023 Bulgarian parliamentary election results in a GERB—SDS–PP–DB coalition government headed by Nikolai Denkov as prime minister, and ends two years of political deadlock.","[-0.01039485  0.00281419 -0.03203999 ...  0.00973383  0.00187451
+  0.00771189]",0.25949098816483906
+64,"April 2 – The 2023 Montenegrin presidential election is held, with Jakov Milatović of the Europe Now! movement winning in the second round, becoming the first president not from the DPS party since the introduction of a multi-party system in 1990.","[-0.01991461 -0.00494016 -0.00562665 ...  0.0021124  -0.0010177
+ -0.00826354]",0.2526941469527495
+65,"April 2 – The 2023 Finnish parliamentary election is held, with the centre-right National Coalition led by Petteri Orpo receiving the most votes.","[-0.01611118 -0.01116121  0.00031571 ...  0.01431119 -0.00478202
+ -0.00298836]",0.23921963340640573
+66,"April 2 – The 2023 Andorran parliamentary election is held, with the ruling Democrats for Andorra led by Prime Minister Xavier Espot winning the majority of the seats.","[-0.01257999 -0.00032054 -0.0082124  ...  0.01921741 -0.00710726
+  0.00860945]",0.24937876350737476
+67,"April 4 – Finland becomes the 31st member of NATO, doubling the alliance's border with Russia.","[-0.00049016 -0.02242374 -0.00874871 ...  0.01299224  0.00862746
+ -0.02050937]",0.2648314196145022
+68,April 5 – Clashes between Palestinians and the Israeli police happen at Al-Aqsa Mosque in Jerusalem.,"[-0.01995343  0.00229815 -0.01688073 ...  0.00320976  0.01902269
+ -0.00750325]",0.2917701645335665
+69,April 10 – Two document leaks from the Pentagon detailing foreign military aid relating to the Russian invasion of Ukraine are leaked onto the Internet.,"[-0.01059628 -0.01234725 -0.0045648  ...  0.00049428  0.01114548
+ -0.01266385]",0.2811566146663649
+70,"April 11 – Myanmar civil war: In the village of Pazigyi, at least 165 people are killed by the Myanmar Air Force during the opening celebrations of a People's Defence Force administration office.","[-0.02144865 -0.00660061 -0.0085861  ...  0.00979466  0.00313927
+ -0.00743066]",0.2766578600913554
+71,"April 14 – Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency (ESA) to search for life in the Jovian system, with an expected arrival date of 2031.","[ 0.00725985 -0.02323674 -0.01331081 ... -0.00712916  0.00961881
+ -0.02314526]",0.22569674347092505
+72,"April 15 – Nuclear power in Germany ends after 50 years, with the closure of the final power plants.","[ 0.00450288 -0.03134235 -0.00295289 ...  0.03263535  0.02095955
+ -0.00887645]",0.28427561249564504
+73,"April 15 – Fighting breaks out across Sudan between the Sudanese Armed Forces and the paramilitary Rapid Support Forces. The RSF captures Khartoum International Airport, and the presidential palace in Khartoum.","[-0.02246529 -0.01477806 -0.01157725 ...  0.00641156  0.01728304
+  0.01733605]",0.2897126925544289
+74,"April 19 – At least 90 people are killed and another 322 injured in a crowd crush during a Ramadan charity event in Sanaa, Yemen.","[-0.01257042 -0.00441786  0.0067862  ...  0.00023138 -0.00222845
+  0.0070855 ]",0.29709159569455823
+75,"April 20 – SpaceX's Starship rocket, the largest and most powerful rocket ever built, launches for the first time in a test flight from Texas. It explodes four minutes after launch.","[-0.00495771 -0.00318499 -0.01925413 ...  0.01414242  0.0029802
+ -0.0097909 ]",0.26578484143099435
+76,"April 21 – The Global Fellowship of Confessing Anglicans, representing a majority of the global Anglican population, reject the leadership of Archbishop of Canterbury Justin Welby as the head of global Anglicanism over his support for same-sex marriage.","[-0.0259496  -0.0003662  -0.00713548 ... -0.00017204  0.01225398
+ -0.00064973]",0.29555229502856706
+77,"April 25 – A mass cult suicide is uncovered in Shakahola forest in Kenya. 429 followers of the Good News International Ministries are found in shallow graves throughout the forest, with over 613 people missing.","[-0.00530029 -0.00075565  0.01253874 ...  0.00885359 -0.00081045
+ -0.01824776]",0.2875231156761724
+78,April 29 – The 2023 Niuean general election is held and incumbent Dalton Tagelagi is re-elected as Premier of Niue.,"[-0.01213745 -0.00625252 -0.0040305  ...  0.01389012 -0.0009108
+ -0.00353489]",0.24600329470598659
+79,"April 30 – The 2023 Paraguayan general election is held, with the Colorado Party candidate Santiago Peña being the president-elect of Paraguay, winning in a plurality.","[-0.01901962 -0.01376522 -0.00205311 ...  0.0110991  -0.0119943
+  0.00640258]",0.26332945877827607
+80,"April 30 – The second round of the 2023 French Polynesian legislative election is held; the Tāvini Huiraʻatira party wins a majority of seats. Moetai Brotherson, Tāvini Huiraʻatira's deputy leader, is elected President of French Polynesia.","[-0.02366785 -0.00391309 -0.02490803 ...  0.0113248   0.0039033
+  0.00134788]",0.2601370262829452
+81,May 1 – 2023 banking crisis: San Francisco-based First Republic Bank fails and is auctioned off by the US FDIC to JPMorgan Chase for $10.7 billion. The collapse surpasses March's collapse of Silicon Valley Bank to become the second largest in US history.,"[-0.03149776 -0.02569554  0.02006436 ... -0.00662124 -0.01171627
+ -0.00406879]",0.28925045534093685
+82,"May 3 – A school shooting occurs in Belgrade, Serbia. A second mass murder occurs the next day near Mladenovac and Smederevo. These events leave 19 people dead, causing the government to increase regulations on gun ownership and mass anti-government protests to begin.","[-0.01653726 -0.00193469 -0.03085037 ... -0.0084518   0.00348342
+  0.00853684]",0.2919850184557875
+83,"May 4 – A series of floods and landslides strikes villages in the eastern Democratic Republic of the Congo, resulting in over 400 deaths.","[-0.01884677 -0.00450444 -0.00385031 ... -0.01720172 -0.01150236
+  0.00820579]",0.30059279458750465
+84,"May 5 – The World Health Organization ends its declaration of COVID-19 being a global health emergency, but continues to refer to it as a pandemic.","[-0.00938637  0.00205447 -0.0008892  ...  0.00345087  0.01319999
+ -0.03171593]",0.2777378364611002
+85,"May 6 – The coronation of Charles III and Camilla as King and Queen of the United Kingdom and the other Commonwealth realms is held in Westminster Abbey, London.","[ 0.00453621 -0.0024608  -0.01544079 ...  0.01727297  0.00263138
+ -0.0009919 ]",0.3070693598363816
+86,May 7 – Syria is readmitted into the Arab League after being suspended since 2011.,"[ 0.0015974   0.00343612 -0.02684967 ...  0.00067404  0.02733552
+ -0.00834897]",0.29850374128502755
+87,"May 9 – Cyclone Mocha forms in the Indian Ocean, killing over 400 people and injuring over 700 as it strikes Myanmar and Bangladesh.","[-1.83933470e-02 -1.48506351e-02  6.40870712e-05 ... -2.37923907e-03
+  5.33367880e-03 -2.07595136e-02]",0.283726332586023
+88,"May 9–13 – The Eurovision Song Contest 2023 is held in Liverpool, UK. Swedish contestant Loreen wins with the song ""Tattoo"".","[-0.01522855 -0.01927244  0.01927244 ... -0.00289375  0.02643882
+ -0.02234374]",0.26357266065867613
+89,May 11 – The World Health Organization ends its declaration of mpox being a global health emergency.,"[-0.01169031  0.00891098 -0.00555537 ...  0.00531497  0.0040702
+ -0.0380676 ]",0.2852948913512726
+90,"May 14 – The 2023 Thai general election is held, with pro-democratic parties such as the Move Forward and Pheu Thai parties gaining a majority of seats in the House of Representatives while pro-military parties such as Palang Pracharat lost seats.","[-0.02837165 -0.0260723  -0.0050144  ... -0.00323468  0.00777492
+  0.0082231 ]",0.25050502027265587
+91,"May 14 – The 49th G7 summit takes place in Hiroshima, Japan. Ukrainian president Volodymyr Zelenskyy arrives in Japan on the second day of the summit.","[-0.01569672 -0.01760439 -0.00385696 ...  0.01714348  0.00464436
+ -0.01515898]",0.2789293682307089
+92,"May 21 – The May 2023 Greek legislative election is held; the ruling New Democracy wins a plurality of seats in the Hellenic Parliament. Just days later, incumbent prime minister Kyriakos Mitsotakis called for another snap election to be held in June.","[-0.01542929 -0.00586928 -0.03221697 ... -0.00272159  0.00456535
+ -0.00842588]",0.25359321152181424
+93,"May 21 – The 2023 East Timorese parliamentary election is held, with the National Congress for Timorese Reconstruction and Fretilin parties receiving the most votes. Xanana Gusmão is elected Prime Minister of East Timor.","[-0.01736012  0.0058678  -0.02243322 ...  0.00393781  0.00372698
+ -0.00905632]",0.2694134691390567
+94,May 24 – Canada and Saudi Arabia agree to restore full diplomatic relations after a breakdown in relations in 2018 over the assassination of Jamal Khashoggi.,"[-0.00654371 -0.01584466  0.01268081 ...  0.01674681 -0.00177411
+  0.01071135]",0.2922817199053229
+95,May 25 – Russia and Belarus sign an agreement in Minsk allowing the stationing of Russian tactical nuclear weapons on Belarusian territory.,"[-0.00856387 -0.01890892  0.00226197 ...  0.01721809  0.01662436
+ -0.01262961]",0.2740710386937951
+96,"May 27 – The second round of the 2023 Mauritanian parliamentary election is held, with the ruling El Insaf Party receiving the most votes.","[-0.02665272  0.0001612  -0.0088056  ... -0.01238268  0.01141986
+  0.00525084]",0.25129857466653827
+97,May 28 – The second round of the 2023 Turkish presidential election is held; Recep Tayyip Erdoğan defeats Kemal Kılıçdaroğlu with 52.18% of the vote to win a third term as president.,"[-0.01544543 -0.01920381 -0.01280683 ...  0.02467407  0.01316079
+  0.00203204]",0.2533703699290235
+98,May 31 – The 2023 Latvian presidential election is held; Edgars Rinkēvičs is elected the President of Latvia.,"[-0.0055696  -0.00465495 -0.0059782  ...  0.01077459  0.00422435
+ -0.01333938]",0.2487254712910706
+99,"June 2 – A train collision in Odisha, India results in at least 296 deaths and more than 1,200 others injured.","[-0.00559328  0.0088692   0.01679597 ... -0.00855291 -0.00427
+ -0.00946952]",0.27547848019719123
+100,"The 2023 Guinea-Bissau legislative election is held; the coalition Inclusive Alliance Platform – Terra Ranka led by the African Party for the Independence of Guinea and Cape Verde, wins a majority of seats.","[-0.01223167  0.00013875 -0.00158454 ... -0.02337489 -0.00809692
+  0.00377635]",0.24337326630355238
+101,"June 6 – The 2023 Kuwaiti general election is held; following the annulment of the results of the 2022 snap elections by the Constitutional Court. 38 members retained their seats from the annulled 2022 session, while two returned from the dissolved 2020 session. Ten new MPs were elected for the first time.","[-0.01065599 -0.00091893  0.00717407 ... -0.00090579  0.0214828
+  0.00408633]",0.2721068562842144
+102,"June 6 – Russian invasion of Ukraine: The Nova Kakhovka dam in the Russian-controlled region of Kherson is destroyed, threatening the region with devastating floodwaters.","[-0.0017619  -0.01297428  0.00401661 ...  0.01260064  0.01859174
+  0.0157057 ]",0.29286547521280604
+103,"June 6 – Due to smoke from wildfires in Canada, New York City in the United States is declared to have the worst air quality out of any city in the world.","[-0.00105356 -0.00844767 -0.01324748 ...  0.01725372  0.01969843
+ -0.02672536]",0.28852954940835696
+104,"June 11 – Honduras opens its first embassy in Beijing, China, after breaking off relations with Taiwan in March.","[-0.01983328 -0.00259421  0.00217453 ... -0.00351619  0.02587401
+ -0.00818609]",0.2983159035324461
+105,June 12 – Eritrea rejoins the Intergovernmental Authority on Development trade bloc after suspending its membership in 2007.,"[-0.00711089 -0.00477794 -0.0081851  ... -0.01088711  0.01905903
+ -0.02013983]",0.29130231181653676
+106,"June 13 – At least 106 people are killed when a wedding boat capsizes on the Niger River in Kwara State, Nigeria.","[ 0.00372909 -0.01921542  0.00937973 ... -0.00492762 -0.00387891
+ -0.01481216]",0.30685804501030856
+107,"June 14 – Scientists report the creation of the first synthetic human embryo from stem cells, without the need for sperm or egg cells.","[-0.02531675 -0.01243256 -0.01940693 ... -0.0050227   0.00905829
+ -0.03032333]",0.24150009587729404
+108,June 14 – At least 82 people die and 500 are reported missing after a boat carrying migrants capsizes off the coast of the Peloponnese.,"[ 0.01018459 -0.00764003  0.00942313 ... -0.00232723 -0.00175771
+ -0.0162192 ]",0.303965586861237
+109,"June 18 – Titan submersible implosion: All five crew members of Titan, a deep-sea submersible exploring the wreck of the Titanic, are killed following a catastrophic implosion of the vessel.","[-0.03570482 -0.01931318  0.00538416 ...  0.00967598 -0.00404297
+  0.00083057]",0.27474418489646435
+110,"June 19 – The United Nations General Assembly unanimously adopts the High Seas Treaty, the first treaty aimed towards marine conservation in international waters.","[ 0.00385271 -0.01902778  0.00512833 ... -0.00349424  0.01807187
+  0.00387531]",0.27337778310471383
+111,June 19 – Qatar and the United Arab Emirates announce that they will restore diplomatic relations after relations were suspended during the Qatar diplomatic crisis.,"[-0.01467634 -0.02005383  0.00919666 ...  0.00768304  0.00057399
+ -0.00685279]",0.2887539542122046
+112,"June 20 – At least 46 people are killed after a riot between MS-13 and Barrio 18 gang members at a women's prison near Tegucigalpa, Honduras.","[-0.01832858 -0.00486094 -0.00666822 ... -0.01621627  0.00451655
+  0.01630811]",0.29806005432828064
+113,"June 23 – Russian invasion of Ukraine: The Wagner Group, led by Yevgeny Prigozhin, begins an armed conflict with the Russian military, seizing the city of Rostov-on-Don and portions of the Voronezh Oblast before withdrawing the next day, after a peace agreement brokered by Belarusian President Alexander Lukashenko.","[-0.00342201 -0.01864132  0.00300924 ... -0.0011992   0.02432693
+  0.00636801]",0.29273964504745964
+114,"June 25 – The June 2023 Greek legislative election is held; Kyriakos Mitsotakis becomes prime minister after his centre-right party, New Democracy, wins a majority of seats in the Greek parliament.","[-0.00363332 -0.01160349 -0.02121525 ...  0.00796054  0.00997155
+ -0.01457183]",0.2482316405129411
+115,June 28 – The 2023 Sierra Leonean general election is held; Julius Maada Bio of the Sierra Leone People's Party is re-elected president.,"[-0.00452063 -0.00600612 -0.01201223 ... -0.00460726 -0.00600612
+  0.0097471 ]",0.2478850242849846
+116,"June 30 – The United Nations Security Council votes unanimously to end MINUSMA, its peacekeeping mission in Mali.","[-0.0039556  -0.01026967  0.00461001 ...  0.00159714  0.02819784
+ -0.00132096]",0.2867099999436914
+117,July 3 – Indian oil refiners start payments for Russian oil imports in Chinese yuan as an alternative to the US dollar due to increasing sanctions against Russia.,"[-0.0040863  -0.01751459 -0.01106323 ...  0.00662874  0.01869712
+ -0.02116729]",0.27781028724828805
+118,"July 3 – In the largest incursion by Israel into the West Bank since the Second Intifada, the Israeli military deploys ground forces and armed drones into the Jenin camp, killing 13 and injuring more than 100. An attack claimed by Hamas as retaliation for the incursion, occurs in Tel Aviv the following day, injuring nine.","[-0.02280382  0.00601895  0.00251773 ... -0.00501907  0.00269968
+ -0.00044052]",0.27258481191311035
+119,"July 4 – Iran joins the Shanghai Cooperation Organisation, becoming the organization's ninth member.","[-0.00560977 -0.01117449  0.00227706 ...  0.00473113  0.01180531
+ -0.02390671]",0.2708824056019795
+120,"July 8 – In the Netherlands, the governing coalition collapses and Prime Minister Mark Rutte announces his upcoming resignation.","[-0.01056982 -0.00489622 -0.00074407 ...  0.01198666  0.01715245
+ -0.01554754]",0.27903171783003256
+121,July 9 – The 2023 Uzbek presidential election is held; Shavkat Mirziyoyev is re-elected president of Uzbekistan.,"[-0.00532075 -0.01397446 -0.00638239 ...  0.01875023  0.02278253
+ -0.01508335]",0.24323853088522185
+122,"July 9 – New Zealand signs a free trade agreement with the European Union, increasing bilateral trade.","[ 0.0018582  -0.01397755  0.01397755 ...  0.0078125   0.00301013
+ -0.02495623]",0.2682443605849151
+123,July 10 – China and the Solomon Islands sign a cooperation agreement between the People's Police and the Royal Solomon Islands Police Force in an upgrade of bilateral relations.,"[ 0.01880235 -0.01179219  0.00820241 ... -0.00068367 -0.00084451
+ -0.00326728]",0.27387344507029865
+124,July 10 – The European Commission and the U.S. government sign a new data communication agreement aimed at resolving legal uncertainties that European and American companies face when transferring personal data.,"[ 0.00857949 -0.01767196  0.01864661 ...  0.01299748 -0.00668149
+ -0.0193263 ]",0.26595988121708625
+125,July 13 – Pita Limjaroenrat fails to become Prime Minister of Thailand in a National Assembly vote after forming a coalition with pro-democracy parties following the 2023 Thai general election.,"[-0.02272147 -0.00853355 -0.00946294 ...  0.01068481  0.02108365
+ -0.0003601 ]",0.27163888175282536
+126,"July 14 – SAG-AFTRA announces it will begin a strike against the major film and TV studios in protest of low compensation, ownership of work, and generative AI.","[-0.00881694 -0.03534626 -0.00971303 ... -0.00867959  0.0098046
+ -0.00400621]",0.22000316007833487
+127,"July 19 – Typhoon Doksuri forms in the eastern Pacific Ocean, going on to kill 137 people in Southeast Asia.","[-0.00540294 -0.00030239 -0.00866429 ... -0.00521686 -0.0024909
+ -0.01868667]",0.28592328590974647
+128,"July 20–August 20 – The 2023 FIFA Women's World Cup is held in Australia and New Zealand. In the final, Spain wins 1–0 against England.","[-0.01098891 -0.0109761   0.01754639 ...  0.00651266  0.01524103
+ -0.00380065]",0.2501024807865303
+129,"July 20 – Bolivia and Iran sign a memorandum of understanding, in an upgrade of bilateral relations, expanding cooperation in the security and defense sectors.","[-0.02041565 -0.0119156   0.01143691 ... -0.00559878 -0.00379721
+  0.00412712]",0.24973477541908384
+130,"July 21 – The films Barbie and Oppenheimer open, while being paired as a major internet and cultural event, Barbenheimer.","[-0.02899597 -0.01166878 -0.00168957 ...  0.01778744 -0.01191244
+ -0.03579147]",0.2590348101889992
+131,"July 23 – 2023 Greece wildfires: Tens of thousands of tourists flee Rhodes, Greece, amid wildfires and a major heatwave, in what officials say is the largest evacuation in the country's history.","[ 0.0017615  -0.01060496  0.00683663 ... -0.00338561 -0.00161511
+ -0.03027746]",0.2790120437124135
+132,July 23 – Danish cyclist Jonas Vingegaard wins the Tour de France for the second consecutive time.,"[ 0.01386821  0.00084389  0.00597191 ... -0.00078671 -0.00184552
+ -0.00502549]",0.2786093142229298
+133,"July 23 – The 2023 Cambodian general election is held, with the dominant Cambodian People's Party retaining control of every seat in the National Assembly.","[-0.00932346 -0.00472883  0.01129807 ...  0.00793038  0.0001324
+  0.0121991 ]",0.24936660405278444
+134,"July 23 – The 2023 Spanish general election is held, with the People's Party becoming the largest party in the Congress of Deputies.","[-0.02269588  0.00541986  0.0049599  ...  0.00056571 -0.00386949
+  0.00259414]",0.24633363448168477
+135,July 26 – President Mohamed Bazoum of Niger is toppled in a coup d'état after members of his presidential guard and the armed forces seize control of the country and install General Abdourahamane Tchiani as leader of a military junta.,"[-0.03021087 -0.00986265  0.01019357 ... -0.00607332  0.02651237
+ -0.00077863]",0.28886412027301056
+136,"July 30 – 63 people are killed and over 200 are injured after a suicide bombing occurs in Khar, Pakistan; the Islamic State – Khorasan Province claims responsibility for the attack.","[-0.00841328 -0.00494062  0.027057   ...  0.01956847  0.00565843
+ -0.00669312]",0.2798013408444068
+137,"August 1 – Global warming: The world's oceans reach a new record high temperature of 20.96 °C (69.73 °F), exceeding the previous record in 2016. July is also the hottest month on record for globally averaged surface air temperatures by a considerable margin (0.3 °C (32.5 °F)).","[-0.00240718 -0.01289128 -0.00777801 ... -0.00912629 -0.01233798
+ -0.01466566]",0.28880970972628583
+138,"August 8 – 2023 Hawaii wildfires: 17,000 acres of land are burned and at least 101 people are killed, with two others missing, when a series of wildfires break out on the island of Maui in Hawaii.","[-0.01779404 -0.01389754 -0.00537068 ... -0.00398093  0.00323085
+ -0.00401989]",0.26036933054747124
+139,"August 10 – Tapestry, the holding company of Coach New York and Kate Spade, announces it will acquire Michael Kors' Capri Holdings, which also owns Versace and Jimmy Choo.","[-0.03182992 -0.01691293 -0.0100519  ... -0.00298898  0.00952665
+ -0.00588276]",0.27695734931400995
+140,"August 16–21 – Hurricane Hilary, a Category 4 Pacific Hurricane, strikes the Baja California peninsula and later causes record flooding in Southern California.","[-0.03009294 -0.01351565 -0.00635223 ... -0.01876229 -0.01092505
+ -0.00409526]",0.2900511889242301
+141,"August 18 – American–Japanese–Korean trilateral pact: The United States, Japan, and South Korea agree to sign a trilateral pact.","[-0.01487071 -0.00534376  0.03054314 ...  0.00788794  0.00537932
+ -0.00178125]",0.25732779637358216
+142,"August 20 – 2023 Guatemalan presidential election: After two rounds of voting, Bernardo Arévalo of Semilla is elected with 58% of the vote.","[-0.02718624 -0.00761762 -0.00531409 ... -0.00883618 -0.01047178
+  0.00719406]",0.2638440120326835
+143,August 21 – 2023 Canadian wildfires: 68% of the Northwest Territories are forced to evacuate to other parts of the country due to wildfires.,"[-0.0134765  -0.0240818  -0.00998451 ...  0.02669433  0.00068385
+ -0.01670982]",0.26201941352423164
+144,August 21 – Saudi Arabia is accused of mass killing hundreds of African migrants attempting to cross its border with Yemen.,"[-0.0008542  -0.00467644  0.0127312  ... -0.01135295  0.009917
+  0.02427004]",0.28866848461039485
+145,"August 23 – India's Chandrayaan-3 becomes the first spacecraft to land near the south pole of the Moon, carrying a lunar lander named Vikram and a lunar rover named Pragyan.","[ 0.0200191  -0.01166697  0.01370138 ...  0.0009319  -0.00714318
+ -0.00332785]",0.2396929222860299
+146,"August 23 – Wagner Group leader Yevgeny Prigozhin, founder Dmitry Utkin and eight others are killed when their plane crashes in Russia.","[-0.00213191 -0.01273611 -0.00909443 ... -0.00026812  0.00571334
+  0.01062537]",0.2807126988310611
+147,"August 30 – Following the announcement of incumbent president Ali Bongo Ondimba's reelection as President of Gabon after the 2023 presidential election, the military launches a successful coup d'état and creates the Committee for the Transition and Restoration of Institutions to govern the country, ending the rule of the Bongo family after 56 years in power.","[-0.02081052 -0.01571971 -0.007702   ... -0.00782039  0.01019479
+ -0.00086738]",0.2697984551674023
+148,August 31 – 2023 Johannesburg building fire: 77 people are killed and more than 85 are injured in a fire in a building that had been taken over by gangs who rented it out to squatters.,"[-1.36877391e-02 -6.20528078e-03 -1.17719723e-02 ... -1.66549217e-02
+  5.49795441e-05  7.92753603e-03]",0.2726446546180661
+149,September 1 – 2023 Singaporean presidential election: Economist and former deputy prime minister Tharman Shanmugaratnam is elected president with a vote share of over 70%.,"[-0.00491958 -0.02472538  0.00302039 ... -0.00732216  0.0134414
+ -0.00585119]",0.23905805789348766
+150,"September 2 – The Indian Space Research Organisation (ISRO) successfully launches Aditya-L1, India's first solar observation mission.","[ 0.01524513  0.00751008 -0.02018127 ... -0.00030189 -0.01488782
+ -0.02360878]",0.24673446836126522
+151,September 6 – Bassist Richard Davis dies at the age of 93.,"[-0.00553428  0.00865281 -0.00035099 ... -0.01137603 -0.00802534
+ -0.00976971]",0.3012458924922665
+152,"September 8–October 28 – The 2023 Rugby World Cup is held in France. South Africa beat New Zealand 12–11 in the final at the Stade de France, claiming their 4th Rugby World Cup title.","[-0.00245477 -0.01389755  0.0218244  ... -0.00349357  0.00963368
+  0.01314323]",0.2724195164282188
+153,"September 8 – 2023 Marrakesh–Safi earthquake: A 6.9 magnitude earthquake strikes Marrakesh–Safi province in western Morocco, killing at least 2,960 people and damaging historic buildings.","[-0.00597611 -0.00766685  0.01221233 ... -0.02116024 -0.00603789
+ -0.00472756]",0.28520398599021435
+154,"September 9 – At the 18th G20 summit in New Delhi, the African Union is announced as the 21st permanent member of the G20.","[-0.0016445  -0.01631296  0.01641604 ... -0.00525081  0.00349839
+ -0.01006352]",0.2569704110045661
+155,"September 10 – Storm Daniel, a Mediterranean tropical-like cyclone, kills at least 5,000 people, with a further 10,000 to 100,000 reported missing. In the city of Derna in Libya, two dams collapse, resulting in a quarter of the city being destroyed.","[-0.01594411 -0.0065044  -0.00024329 ... -0.01599748 -0.01318224
+ -0.00994672]",0.2858130447787529
+156,"September 14 – The European Central Bank (ECB) raises eurozone interest rates to an all-time high of 4%, amid ongoing inflationary pressures across the continent.","[-0.02341626 -0.01639267  0.00821567 ...  0.01217852  0.00730711
+ -0.01712725]",0.29516165268271666
+157,"September 19 – Nagorno-Karabakh conflict: Azerbaijan launches a military offensive against the Armenia-backed Republic of Artsakh, which ends with a swift Azerbaijani victory. Protests erupt in Armenia, Artsakh announces the dissolution of government institutions, and over 100,000 ethnic Armenians flee Nagorno-Karabakh.","[-0.01221192 -0.00217275  0.0047938  ...  0.00649208  0.01522236
+ -0.0317536 ]",0.2808145148647121
+158,"September 20 – Archaeologists in Zambia find the world's oldest wooden structure, dating back 476,000 years, consisting of two interlocking wooden logs connected by a notch securing one perpendicular to the other.","[ 0.00872427  0.00062299  0.00763782 ...  0.00928712 -0.02043298
+ -0.02947794]",0.2904636590203795
+159,"September 21 – Rupert Murdoch announces his retirement and passes his businesses on to his son Lachlan. Murdoch led News Corp and Fox, and formerly Sky Group.","[ 0.00061729 -0.0004831   0.00096219 ...  0.01816383  0.02663687
+ -0.01644615]",0.27824311788270795
+160,September 24 – 2023 Nigerien crisis: French President Emmanuel Macron announces that France will end its military presence in Niger and will recall its ambassador from the country.,"[-0.01270385 -0.01958835  0.00767037 ... -0.0003428   0.02248503
+ -0.01669166]",0.2642568381882058
+161,"September 25 – An estimated 170 people are killed and over 300 are injured during a explosion at a gas station in Stepanakert, Nagorno-Karabakh.","[-0.01342878  0.00938193  0.0164867  ... -0.00438192  0.00768381
+ -0.01310998]",0.2877549842607612
+162,"September 30 – 2023 Slovak parliamentary election: Smer, under the leadership of former prime minister Robert Fico, wins a plurality of seats in the National Council.","[-0.00915932 -0.00276828 -0.01463188 ...  0.01854907 -0.00459886
+ -0.00720713]",0.25633680580317175
+163,"October 3 – Elected on January 8, Kevin McCarthy is removed as Speaker of the United States House of Representatives, with Mike Johnson being elected new Speaker on October 25.","[-0.02598777 -0.02033116 -0.02832065 ... -0.01183372  0.00813372
+ -0.00809609]",0.3005260174900002
+164,"October 3 – Sam Bankman-Fried, an American entrepreneur and founder of cryptocurrency exchange company FTX, is put on trial and later convicted on seven charges of fraud and conspiracy. His sentencing is scheduled for March 28, 2024.","[ 0.0089748  -0.02756783 -0.00636461 ...  0.00958506  0.02078863
+ -0.01068618]",0.2682149327927197
+165,"October 5 – November 19 – The 2023 Cricket World Cup is held in India, with Australia defeating India in the final.","[-0.0069082  -0.02189092  0.02105783 ...  0.0018456   0.01068272
+  0.00729911]",0.23223863219466934
+166,"October 7 – Israel–Hamas war: Hamas launches an incursion into southern Israel from the Gaza Strip, killing more than 1,100 Israelis and taking about 240 hostages, prompting a military response from the Israel Defense Forces. Israel launches numerous air strikes on Lebanon after rockets are fired by Hezbollah and further attempts are made to penetrate Israel.","[-0.02883457 -0.00306938 -0.01043785 ... -0.00482751  0.01737903
+ -0.00780882]",0.28658865010012435
+167,"October 7 – A series of earthquakes occur in Herat Province in Afghanistan, killing over 1,000 people and injuring nearly 2,000, with tremors felt in Iran and Turkmenistan. The earthquakes are the deadliest in the country since 1998.","[-0.01329116 -0.01375442 -0.02016184 ...  0.00550046  0.01255385
+ -0.00144607]",0.30107989339842234
+168,October 8 – Israel's Security Cabinet formally declares war for the first time since the Yom Kippur War in 1973.,"[-0.02379609 -0.02856038 -0.02192079 ...  0.01155593  0.02421424
+  0.00412124]",0.2784508447654629
+169,"October 11 – ExxonMobil announces it will acquire Pioneer Natural Resources for $65 billion USD, the first of two major energy industry acquisitions of the month. The second occurs less than two weeks later on 23 October, where Hess announces it will be acquired by Chevron for $50 billion.","[-0.00907448 -0.01945094  0.01096828 ...  0.00378103  0.01517673
+  0.01478219]",0.28474702499243043
+170,"October 13 – After British regulators' approval, Microsoft closes its $68.7 billion USD acquisition of Activision Blizzard.","[-0.00998644 -0.02763087 -0.00306255 ...  0.00112622  0.00860877
+  0.01455277]",0.2681119109539737
+171,October 14 – 2023 Australian Indigenous Voice referendum: A majority of Australians vote against establishing an Aboriginal and Torres Strait Islander Voice in the constitution.,"[-0.02877677 -0.01989602 -0.013163   ...  0.01337382  0.00406485
+ -0.01192444]",0.25052831315596114
+172,"October 14 – 2023 New Zealand general election: The National Party wins a plurality of seats under leader Christopher Luxon, while the Labour Party suffers the worst result for an incumbent ruling party in modern New Zealand history.","[-0.01764299 -0.00764529  0.00237295 ...  0.01070594 -0.00199037
+ -0.00465421]",0.2511950844963372
+173,"October 15 – In the second round of the 2023 Ecuadorian general election, Daniel Noboa of the National Democratic Action is elected as the youngest-ever President of Ecuador.","[-0.02671233 -0.00257439  0.00918888 ...  0.00912367 -0.01848211
+  0.00956714]",0.26715658286647426
+174,"October 15 – 2023 Polish parliamentary election: The Law and Justice party wins the most seats, but loses its majority, with its incumbent president Mateusz Morawiecki being succeeded by the Civic Platform party's Donald Tusk on 13 December.","[-0.00795796 -0.0126077  -0.00314541 ...  0.0225584  -0.00122267
+ -0.02938323]",0.25138854239305963
+175,"October 17 – An explosion occurs at the Al-Ahli Arab Hospital, where displaced Palestinians are taking refuge. Many fatalities are reported, but estimates vary significantly, from 100 to as many as 471, depending on the source.","[-0.0156172  -0.00090219  0.00090876 ... -0.00379265  0.01989912
+  0.00266471]",0.2965240813174367
+176,October 22 – 2023 Swiss federal election: The Swiss People's Party retains its majority in the National Council.,"[ 0.00537851 -0.00423953  0.01222504 ...  0.01507249  0.01416131
+ -0.01632537]",0.26233331485750744
+177,"October 25 – Hurricane Otis, an eastern Pacific tropical cyclone, makes landfall in Mexico near Acapulco, leaving at least 80 dead. It is the most powerful Eastern Pacific hurricane to make landfall in Mexico, with the highest winds reaching 165 mph, surpassing Hurricane Patricia's landfall in 2015.","[-0.03457037 -0.01269625 -0.00286726 ...  0.01082282  0.00017421
+ -0.02417837]",0.3158739380236306
+178,"October 31 – Israel intercepted a Yemeni Houthi ballistic missile with its Arrow 2 missile defense system. The interception occurred above Earth's atmosphere above the Negev Desert, making it the first instance of space combat in history.","[-0.01784279 -0.01610365 -0.01210761 ... -0.00709596  0.00520083
+  0.0124727 ]",0.2521916683154971
+179,"November 1 – The first AI Safety Summit takes place in the United Kingdom, with 28 countries signing a ""world first agreement"" on how to manage the riskiest forms of artificial intelligence.","[ 0.00773433 -0.04174205  0.00515946 ... -0.01357718 -0.0203269
+  0.01489862]",0.17246529996529458
+180,"November 2 – The Beatles release ""Now and Then"", the band's last ever song, featuring restored vocals by John Lennon (1940–1980), as well as guitar tracks by George Harrison (1943–2001).","[-0.01782358 -0.02077048  0.00164794 ...  0.01090224  0.01227875
+  0.00800058]",0.2859737758326747
+181,"November 6 – Israel–Hamas war: The death toll in Gaza is reported to have passed 10,000. United Nations Secretary General António Guterres calls for a humanitarian ceasefire to increase the flow of aid to civilians.","[-0.02067943 -0.01356602 -0.00137183 ... -0.00650443  0.02161233
+  0.00125359]",0.2879929467353567
+182,November 7 – The Portuguese Prime Minister António Costa announces his pending resignation. The President of Portugal decides to dissolve the parliament and call for early elections to be held on 10 March 2024.,"[-0.00056371 -0.00691873  0.00342725 ...  0.00340797  0.00425916
+ -0.01100444]",0.2617837149375972
+183,November 9 – U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.,"[ 0.00796202 -0.00753235  0.02617117 ... -0.01580686  0.01249966
+ -0.01985623]",0.2439861144214609
+184,"November 10 – In the Falepili Union treaty, Australia grants ""special"" freedom of movement and defence rights to Tuvaluans for residence and employment for climate reasons.","[ 0.00064581 -0.01942949 -0.00066492 ...  0.01549935  0.00620755
+ -0.01220687]",0.2786217318740817
+185,"November 14–17 – President Biden hosts the APEC summit in San Francisco, which Chinese president Xi Jinping attends. Both countries, at the conclusion of the summit, agree to re-open suspended channels of military communications and to cooperate in their fight against climate change.","[-0.01153273 -0.03309165  0.02223426 ... -0.00565922 -0.01105869
+ -0.02981885]",0.2554528302554139
+186,November 17 – The global average temperature temporarily exceeds 2 °C above the pre-industrial average for the first time in recorded history.,"[-0.00277381 -0.00888639 -0.00271954 ... -0.00906514 -0.01218687
+ -0.01754297]",0.2771717746921051
+187,"November 19 – 2023 Argentine presidential election: Following the first round on 22 October 2023, Javier Milei wins in the second round of the election, assuming office on 10 December with Victoria Villarruel as his vice president.","[-0.02962635 -0.03146162 -0.00892723 ... -0.01294514 -0.00798339
+ -0.00594821]",0.24198957663224907
+188,"November 22 – Israel and Hamas agree to a four-day ceasefire, the first pause in fighting since 7 October, during which many Israeli hostages will be released, in exchange for Palestinian prisoners.","[-0.03548834 -0.02223256  0.00266948 ...  0.00938243  0.03192904
+  0.00469448]",0.28531640353732657
+189,November 22 – 2023 Dutch general election: Far-right Geert Wilders' Party for Freedom (PVV) wins the most seats.,"[-0.01836156 -0.04324098  0.0047489  ...  0.00992894 -0.00031048
+  0.00421631]",0.24819582640471693
+190,"November 24 – Somalia is admitted as the eighth member of the East African Community, having applied for membership in 2012.","[ 0.01194463 -0.00910219  0.00826543 ... -0.00636515  0.02455357
+ -0.00416785]",0.28111122811070066
+191,"November 30 – Brazil announces it will join OPEC+ at a meeting of the organization to discuss oil output strategy in 2024. Brazil is the largest oil producer in South America, producing 4.6 million barrels per day of oil and gas.","[-0.00819313 -0.02392852  0.01011379 ...  0.01101988 -0.01535254
+ -0.01056684]",0.28484061072045463
+192,December 3 – 2023 Guyana–Venezuela crisis: Venezuela votes in a symbolic referendum on whether voters agreed with creating a subdivision in the disputed territory of Guayana Esequiba currently under the control of neighboring Guyana. Analysts say the referendum's practical implications are likely to be minimal.,"[-0.01509758 -0.01046294  0.01134319 ... -0.00176883  0.00073146
+  0.00328259]",0.28418403452447694
+193,"December 6 – Google DeepMind releases the Gemini Language Model. Gemini will act as a foundational model integrated into Google's existing tools, including Search and Bard.","[-0.0228795   0.01109876 -0.00841768 ... -0.01516385 -0.01889464
+ -0.01307113]",0.19426191878327403
+194,December 10–12 – 2023 Egyptian presidential election: Incumbent President Abdel Fattah el-Sisi wins a third term with 89.6 percent of the vote in the election.,"[-0.02362362 -0.01779722 -0.00442386 ...  0.00216741  0.02501025
+ -0.0047896 ]",0.24455495324160648
+195,"December 12 – At the COP28 climate summit in Dubai, a consensus is reached for countries to ""transition away"" from fossil fuels, the first such agreement in the conference's 30-year history. The transition is specifically for energy systems, excluding plastics, transport or agriculture.","[-1.38619449e-03 -1.92810763e-02  4.18652744e-05 ...  1.37852514e-02
+ -1.33218262e-02 -2.77793705e-02]",0.2548545151272614
+196,December 16 – Emir of Kuwait Nawaf Al-Ahmad Al-Jaber Al-Sabah dies at the age of 86 and is succeeded by his half-brother Mishal Al-Ahmad Al-Jaber Al-Sabah.,"[ 0.00255203  0.00177874  0.01401216 ... -0.00905539  0.02300351
+  0.00336855]",0.2803857389058946
+197,"December 17 – The 2023 Serbian parliamentary election is held, with the SNS coalition, led by Miloš Vučević, winning 128 of 250 seats in the Serbian National Assembly.","[-9.38313082e-03 -3.91494250e-03 -1.44884707e-02 ... -2.52392456e-05
+ -1.43388752e-03  3.36430431e-03]",0.25462918405164203
+198,December 18 – A number of shipping companies announce a temporary suspension of their operations in the Red Sea due to continued attacks on vessels by Houthi rebels.,"[-0.02631588 -0.03140081  0.000146   ... -0.00755533  0.02158478
+  0.0228167 ]",0.2927983346647395
+199,"December 20 – 2023 Democratic Republic of the Congo general election: Incumbent President Félix Tshisekedi wins re-election, defeating two major challengers.","[-0.01384445 -0.00637893 -0.00039189 ...  0.00153321 -0.00295617
+  0.01127498]",0.25821679447120993
+200,December 21 – The European Court of Justice rules that threats by FIFA and UEFA to sanction football clubs that wish to join the European Super League are unlawful.,"[ 0.01342105 -0.01243402  0.01390816 ... -0.001378    0.02443221
+ -0.01381843]",0.2756650984453818
+201,"December 21 – The deadliest mass shooting in the Czech Republic's history occurs at a Prague university, with 15 killed and 25 others wounded.","[-0.02004375  0.00339212 -0.00314914 ...  0.00305902 -0.00880535
+  0.0057769 ]",0.2978414276398158
+202,"December 22 – Israel–Hamas war: The death toll in Gaza is reported to have passed 20,000, almost 1 percent of its population and surpassing the casualties in the 1948 Arab–Israeli War.","[-0.02633651  0.0016572  -0.006498   ...  0.00384074  0.00800048
+  0.00196184]",0.29936100546018374
+203,"December 29 – Russian invasion of Ukraine: Russia launches the largest wave of drones and missiles on Ukrainian cities since the start of the war in a overnight assault, killing at least 39 people and injuring at least 160 others. Ukraine launches a drone assault the following day, killing at least 21 people, including three children, and injuring 110 others, including 17 children.","[-0.01142665 -0.0060698   0.00108239 ...  0.01075907  0.00873688
+  0.01397383]",0.269775691527649
+204,"December 31 – Queen Margrethe II of Denmark announces her abdication effective January 14, 2024, after 52 years on the throne.","[-0.0066682  -0.02466857 -0.01187419 ...  0.01184898  0.01157797
+ -0.00684468]",0.26717247460599325
+205,"December 21 – The world population on January 1, 2023 was estimated at 7.943 billion people, and was expected to increase to 8.119 billion on January 1, 2024. An estimated 134.3 million births and 60.8 million deaths were expected to take place in 2023. The average global life expectancy was 73.16 years, an increase of 0.18 years from 2022. The rate of child mortality was by the end of the year, expected to have decreased from 2022. Less than 23% of people were living in extreme poverty (on or below the international poverty line), a decrease from 2022. In April, India surpassed China as the most populated country in the world.","[ 0.00663221  0.00149081 -0.00255318 ... -0.00917424 -0.0079956
+ -0.00961384]",0.23628683286407026
+206,December 21 – The best-selling video game in 2023 was Hogwarts Legacy.,"[-0.00534892 -0.00875102 -0.02017489 ...  0.00243673  0.00166089
+ -0.00934856]",0.2162964665168614
+207,December 21 – The highest-grossing movie in 2023 was Barbie.,"[-0.01984957 -0.02400028 -0.00683722 ...  0.01597897 -0.01047864
+ -0.02299443]",0.23587242480523174
+208,"December 21 – The best-selling book in 2023 was It Ends with Us, which was published in 2016. Of the books to be published in 2023, Spare was the best-selling.","[-0.0149526  -0.00688746 -0.00654672 ... -0.00774095  0.00940823
+ -0.01839302]",0.2366210433787438
+209,"Chemistry – Moungi Bawendi, Louis E. Brus & Alexey Ekimov, for the discovery and synthesis of quantum dots.","[-0.00103437  0.03500799  0.00850686 ... -0.02132016 -0.01670896
+ -0.00602569]",0.24139263711412473
+210,"Economics – Claudia Goldin, for her empirical research into female income and employment.","[-0.01736184 -0.00786729 -0.00109906 ... -0.01164017 -0.01513091
+ -0.01423854]",0.2812682971467647
+211,"Literature – Jon Fosse, for his innovative plays, prose and style, which has come to be known as Fosse minimalism.","[-0.00945475  0.01764014  0.00502836 ... -0.01552018  0.00948747
+ -0.02698366]",0.2860601072593518
+212,"Peace – Narges Mohammadi, for her works on the promotion of feminism.","[-0.01322671 -0.01299662 -0.00499288 ... -0.01477815  0.00983457
+ -0.03944346]",0.288516272408026
+213,"Physics – Pierre Agostini, Ferenc Krausz & Anne L'Huillier, for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter.","[-0.02042678  0.01500519  0.00525387 ... -0.02842224  0.00550031
+ -0.01411529]",0.2640842434021472
+214,"Physiology or Medicine – Katalin Karikó & Drew Weissman, for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19.","[-0.00907728  0.00412996  0.01303114 ... -0.03325233 -0.0146592
+ -0.0077416 ]",0.24250524448847954
