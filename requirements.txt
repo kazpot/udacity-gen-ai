@@ -150,6 +150,7 @@ scipy==1.13.1
 segment-anything==1.0
 semantic-version==2.10.0
 Send2Trash==1.8.3
+sentence-transformers==3.0.1
 sentencepiece==0.2.0
 shellingham==1.5.4
 six==1.16.0
